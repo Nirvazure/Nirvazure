@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://yqymons-bank.oss-cn-beijing.aliyuncs.com/yqymons-next/home/web-yqymons.gif"  />
+  <img height="500" src="https://yqymons-bank.oss-cn-beijing.aliyuncs.com/yqymons-next/home/web-yqymons.gif"  />
 </div>
 
 ###
